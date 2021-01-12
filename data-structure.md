@@ -6,6 +6,8 @@ As questões começam mais fáceis e o nível de dificuldade aumenta gradativame
 
 Dado o seguinte modelo DER:
 
+![der](https://user-images.githubusercontent.com/62309069/104314062-a6da3a00-54b7-11eb-884d-f6e4086da0cc.png)
+
 Escrever a consulta SQL para recuperar as seguintes informações:
 
 - Buscar os nomes de todos os alunos que frequentam alguma turma do professor 'JOAO PEDRO'.
